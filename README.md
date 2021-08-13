@@ -1,2 +1,2 @@
-# cashiee
+# Cashiee
 Training Project
